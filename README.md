@@ -1,3 +1,3 @@
 # -
-它为null
-我用到begin my github
+It's null
+I use to begin my github
